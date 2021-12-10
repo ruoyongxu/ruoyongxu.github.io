@@ -9,8 +9,8 @@ main:
     url: /research/
 
 
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "R Packages"
+    url: /R packages/
           
 #  - title: "CV"
 #    url: /cv/
