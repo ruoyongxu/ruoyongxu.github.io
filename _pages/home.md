@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a PhD candidate at the Department of Statistical Sciences at the University of Toronto. My academic advisor is Prof. Patrick Brown. My PhD work involves development of statistical softwares using GPU's in R and statistical computing in geostatsistical models. I formerly did my BSc in Mathematics in Shanghai University, and MSc in Biostatistics at the University of Toronto.
+I am a PhD candidate at the Department of Statistical Sciences at the University of Toronto. My academic advisor is Prof. Patrick Brown. My PhD work involves development of statistical softwares using GPU's in R and statistical computing in geostatsistical models. I formerly did my BSc in Mathematics in Shanghai University, and MSc in Biostatistics at the University of Toronto. 
 
 ## Fields of Study
 Statistical Computing
@@ -38,7 +38,8 @@ R Xu, PE Brown.(2022). Profile likelihoods for geostatsistical models using GPU'
 * [gpuBatchMatrix](https://github.com/ruoyongxu/gpuBatchMatrix): an R package that does several matrix operations that are useful in geostatistical model computations in batches on GPU in R. Contributors for this packages are Patrick Brown and Ruoyong Xu.
 
 
-
+## Other Links and interests 
+will try to put some other materials here.
 
 
 
