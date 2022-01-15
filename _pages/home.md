@@ -16,8 +16,8 @@ I am a PhD candidate at the Department of Statistical Sciences at the University
 Statistical Computing
 
 
-## Research interests
-Statistical Software, Spatial statistics. I am also interested in learning neural networks.
+## Research
+My reaserach interests lie in Statistical Software, Spatial statistics. I am also interested in learning neural networks.
 
 
 ## Statistical papers
