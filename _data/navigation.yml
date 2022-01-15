@@ -1,12 +1,12 @@
 # main links links
 main:
 
-#  - title: "Home"
-#    url: /home/  
+  - title: "Home"
+    url: /home/  
     
     
-  - title: "Research"
-    url: /research/
+#  - title: "Research"
+#    url: /research/
 
 
 #  - title: "Software"
