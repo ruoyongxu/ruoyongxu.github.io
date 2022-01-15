@@ -12,7 +12,7 @@ I am a PhD candidate at the Department of Statistical Sciences at the University
 
 
 ## Statistical papers
-R Xu, PE Brown, P L'Ecuyer. (2022). A tool set for random number generation on GPUs in R. 
+Ruoyong Xu, Patrick Brown, Pierre L’Ecuyer. (2022). A tool set for random number generation on GPUs in R. 
 
 
 R Xu, PE Brown, N Baxter, and AM Sawka. (2021).
