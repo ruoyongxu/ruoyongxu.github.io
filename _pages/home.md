@@ -18,16 +18,16 @@ My reaserach interests lie in Statistical Software, Spatial statistics. I am als
 
 
 ## Statistical papers
-Ruoyong Xu, Patrick Brown, Pierre L’Ecuyer. (2022). A tool set for random number generation on GPUs in R. Submitted. 
+Ruoyong Xu, Patrick Brown, Pierre L’Ecuyer (2022). A tool set for random number generation on GPUs in R. Submitted. 
 
 
-R Xu, PE Brown, N Baxter, and AM Sawka. (2021).
+R Xu, PE Brown, N Baxter, and AM Sawka (2021).
 “Online Public Interest in Cancer During the COVID-19 Pandemic”.
 JCO Clinical Cancer Informatics 5, pp. 695–700.
 
 
 ## Working papers
-R Xu, PE Brown.(2022). Profile likelihoods for geostatsistical models using GPU's.
+Ruoyong Xu, Patrick Brown (2022). Profile likelihoods for geostatsistical models using GPU's.
 
 
 ## Software
