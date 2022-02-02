@@ -34,6 +34,8 @@ Ruoyong Xu, Patrick Brown (2022). Profile likelihoods for geostatsistical models
 * [clrng](https://github.com/ruoyongxu/clrng): an R package built as a tool set for random number generation on GPUs in R. This package is dependent on the [gpuR](https://github.com/cdeterman/gpuR) package and utilize the MRG31k3p RNG from the clRNG, an OpenCL library by Pierre L’Ecuyer. Contributors for this package are Ruoyong Xu and Patrick Brown.
 * [gpuBatchMatrix](https://github.com/ruoyongxu/gpuBatchMatrix): an R package that does several matrix operations that are useful in geostatistical model computations in batches on GPU in R. Contributors for this packages are Patrick Brown and Ruoyong Xu.
 
+* [gpuLik](https://github.com/ruoyongxu/gpuLik): an R package that computes profile likelihoods for linear geostatistical models on GPUs. (Under development)
+
 
 ## Other Links and interests 
 will try to put some other materials here.
