@@ -14,7 +14,7 @@ I am a PhD candidate at the Department of Statistical Sciences at the University
 
 
 ## Research
-My reaserach interests lie in Statistical Software, Spatial statistics. I am also interested in learning neural networks.
+My reaserach interests lie in Statistical Software, Spatial statistics.
 
 
 ## Statistical papers
