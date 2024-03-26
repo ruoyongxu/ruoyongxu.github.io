@@ -31,7 +31,7 @@ Ruoyong Xu, Patrick Brown, Pierre L’Ecuyer (2022). [A tool set for random numb
 
 R Xu, PE Brown, N Baxter, and AM Sawka (2021).
 [“Online Public Interest in Cancer During the COVID-19 Pandemic”.](https://ascopubs.org/doi/10.1200/CCI.21.00036)
-JCO Clinical Cancer Informatics 5, pp. 695–700.
+JCO Clinical Cancer Informatics 5, p. 695–700.
 
 
 
