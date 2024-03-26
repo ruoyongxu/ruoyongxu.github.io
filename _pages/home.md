@@ -20,7 +20,7 @@ Since March 2024, I have been working as a part-time researcher with Prof. Patri
 
 ## Research
 My PhD work involves development of R softwares using GPU’s parallel computing power and statistical computing methods in geostatsistical models.
-My main interests include statistical learning, statistical software, and computational statistics. Additionally, I am intrigued by inference problems within statistical methods in medical research.
+My main interests include deep learning, statistical software, and computational statistics. Additionally, I am intrigued by inference problems within statistical methods in medical research.
 
 
 ## Publications and Working Papers
