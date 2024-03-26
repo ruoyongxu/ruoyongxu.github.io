@@ -21,7 +21,7 @@ Since March 2024, I have been working as a part-time researcher with Prof. Patri
 My PhD work involves development of R softwares using GPU’s parallel computing power and statistical computing methods in geostatsistical models. This website contains a list of my publications, CV.
 
 
-## Statistical papers
+## Publications and Working Papers
 Ruoyong Xu, Patrick Brown (2024). ["Profile likelihoods for parameters in trans-Gaussian geostatistical models."](https://authors.elsevier.com/sd/article/S2211-6753(24)00012-5)
 Spatial Statistics, p. 100821.
 
@@ -42,7 +42,9 @@ JCO Clinical Cancer Informatics 5, pp. 695–700.
 * [gpuLik](https://github.com/ruoyongxu/gpuLik): an R package that computes profile likelihoods for linear geostatistical models on GPUs. 
 
 
-
+## Thesis:
+["Statistical Computing With Graphics Processing Units."](https://tspace.library.utoronto.ca/handle/1807/126927)
+Ph.D. thesis, 2023
 
 
 
