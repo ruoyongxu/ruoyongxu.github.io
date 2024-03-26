@@ -15,10 +15,12 @@ I am currently employed as a statistician at Pharmaron.
 
 I obtained my PhD from the University of Toronto in 2022 under the supervision of Prof. Patrick Brown. Prior to that, I completed my BSc in Mathematics at Shanghai University, followed by an MSc in Biostatistics at the University of Toronto. 
 
-Since March 2024, I have been working as a part-time researcher with Prof. Patrick Brown and am open to research opportunities in applied statistics and software development. My main interests include statistical learning, statistical software, and computational statistics. Additionally, I am intrigued by inference problems within statistical methods in medical research.
+Since March 2024, I have been working as a part-time researcher with Prof. Patrick Brown and am open to research opportunities in applied statistics and software development. 
+
 
 ## Research
-My PhD work involves development of R softwares using GPU’s parallel computing power and statistical computing methods in geostatsistical models. This website contains a list of my publications, CV.
+My PhD work involves development of R softwares using GPU’s parallel computing power and statistical computing methods in geostatsistical models.
+My main interests include statistical learning, statistical software, and computational statistics. Additionally, I am intrigued by inference problems within statistical methods in medical research.
 
 
 ## Publications and Working Papers
@@ -30,7 +32,6 @@ Ruoyong Xu, Patrick Brown, Pierre L’Ecuyer (2022). [A tool set for random numb
 R Xu, PE Brown, N Baxter, and AM Sawka (2021).
 [“Online Public Interest in Cancer During the COVID-19 Pandemic”.](https://ascopubs.org/doi/10.1200/CCI.21.00036)
 JCO Clinical Cancer Informatics 5, pp. 695–700.
-
 
 
 
