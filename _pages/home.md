@@ -44,7 +44,7 @@ JCO Clinical Cancer Informatics 5, p. 695–700.
 
 
 ## Thesis:
-["Statistical Computing With Graphics Processing Units."](https://tspace.library.utoronto.ca/handle/1807/126927)
+["Statistical Computing With Graphics Processing Units."](chrome-extension://mhnlakgilnojmhinhkckjpncpbhabphi/pages/pdf/web/viewer.html?file=https%3A%2F%2Ftspace.library.utoronto.ca%2Fbitstream%2F1807%2F126927%2F1%2FXu_Ruoyong_202303_PhD_thesis.pdf)
 Ph.D. thesis, 2023
 
 
