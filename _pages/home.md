@@ -29,7 +29,7 @@ Spatial Statistics, p. 100821.
 
 Ruoyong Xu, Patrick Brown, Pierre L’Ecuyer (2022). [A tool set for random number generation on GPUs in R](https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Farxiv.org%2Fabs%2F2201.06604&amp;data=04%7C01%7Cruoyong.xu%40mail.utoronto.ca%7C22cd1c2ea1614e0ce7bf08d9daf3b8e8%7C78aac2262f034b4d9037b46d56c55210%7C0%7C0%7C637781562580933570%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=CGLd5%2FUpVH7pJ69GMK69NkMhekXNej5SKX35xMdo9Q4%3D&amp;reserved=0). Submitted. 
 
-R Xu, PE Brown, N Baxter, and AM Sawka (2021).
+Ruoyong Xu, Patrick Brown, Nancy Baxter, Anna M. Sawka (2021).
 [“Online Public Interest in Cancer During the COVID-19 Pandemic”.](https://ascopubs.org/doi/10.1200/CCI.21.00036)
 JCO Clinical Cancer Informatics 5, p. 695–700.
 
