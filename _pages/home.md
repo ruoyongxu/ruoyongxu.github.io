@@ -36,11 +36,11 @@ JCO Clinical Cancer Informatics 5, p. 695–700.
 
 
 ## Software
-* [clrng](https://github.com/ruoyongxu/clrng): an R package built as a tool set for random number generation on GPUs in R. This package is dependent on the [gpuR](https://github.com/cdeterman/gpuR) package and utilize the MRG31k3p RNG from the clRNG, an OpenCL library by Pierre L’Ecuyer.
+* [clrng](https://github.com/ruoyongxu/clrng): builds on gpuR and utilizes the clRNG ('OpenCL') library to provide efficient tools to generate random numbers in parallel on a GPU and save the results as R objects, and ensuring high-quality random numbers even when R is used interactively or in an ad-hoc manner.
   
 * [gpuBatchMatrix](https://github.com/ruoyongxu/gpuBatchMatrix): an R package that performs parallel batch matrix operations on GPU, particularly tailored for geostatistical model evaluations.
 
-* [gpuLik](https://github.com/ruoyongxu/gpuLik): an R package that computes profile likelihoods for linear geostatistical models on GPUs. 
+* [gpuLik](https://github.com/ruoyongxu/gpuLik): leverages GPUs for parallel computation of profile likelihoods, specifically designed for Gaussian spatial models.
 
 
 ## Thesis:
