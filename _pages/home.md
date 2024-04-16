@@ -31,7 +31,7 @@ Ruoyong Xu, Patrick Brown, Pierre L’Ecuyer (2022). [clrng: A tool set for para
 
 Ruoyong Xu, Patrick Brown, Nancy Baxter, Anna M. Sawka (2021).
 [“Online Public Interest in Cancer During the COVID-19 Pandemic”.](https://ascopubs.org/doi/10.1200/CCI.21.00036)
-JCO Clinical Cancer Informatics 5, p. 695–700.
+Journal of clinical oncology clinical cancer informatics 5, p. 695–700.
 
 
 
