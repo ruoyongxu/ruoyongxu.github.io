@@ -13,7 +13,7 @@ redirect_from:
 # Hi, welcome!
 I am currently employed as a statistician at Pharmaron. 
 
-I obtained my PhD from the University of Toronto in 2022 under the supervision of Prof. Patrick Brown. Prior to that, I completed my BSc in Mathematics at Shanghai University, followed by an MSc in Biostatistics at the University of Toronto. 
+I obtained my PhD from the University of Toronto in 2022 under the supervision of Prof. Patrick Brown. Prior to that, I completed my MSc in Biostatistics at the University of Toronto. 
 
 Since March 2024, I have been working as a part-time researcher with Prof. Patrick Brown and am open to research opportunities and collaboration in applied statistics and software development. 
 
