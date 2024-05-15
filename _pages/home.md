@@ -36,11 +36,13 @@ JCO CCI 5, p. 695–700.
 
 
 ## Software
-* [clrng](https://github.com/ruoyongxu/clrng): builds on gpuR and utilizes the clRNG ('OpenCL') library to provide efficient tools to generate random numbers in parallel on a GPU and save the results as R objects, and ensuring high-quality random numbers even when R is used interactively or in an ad-hoc manner.
+* Author and creater of [clrng](https://github.com/ruoyongxu/clrng): builds on gpuR and utilizes the clRNG ('OpenCL') library to provide efficient tools to generate random numbers in parallel on a GPU and save the results as R objects, and ensuring high-quality random numbers even when R is used interactively or in an ad-hoc manner.
   
-* [gpuBatchMatrix](https://github.com/ruoyongxu/gpuBatchMatrix): an R package that performs parallel batch matrix operations on GPU, particularly tailored for geostatistical model evaluations.
+* Author and creater of [gpuBatchMatrix](https://github.com/ruoyongxu/gpuBatchMatrix): an R package that performs parallel batch matrix operations on GPU, particularly tailored for geostatistical model evaluations.
 
-* [gpuLik](https://github.com/ruoyongxu/gpuLik): leverages GPUs for parallel computation of profile likelihoods, specifically designed for Gaussian spatial models.
+* Author and creater of [gpuLik](https://github.com/ruoyongxu/gpuLik): leverages GPUs for parallel computation of profile likelihoods, specifically designed for Gaussian spatial models.
+
+* Maintainer of [gpuR](https://github.com/eborgnine/gpuR): Provides GPU enabled functions for 'R' objects in a simple and approachable manner.  New gpu* and vcl* classes have been provided to wrap typical 'R' objects (e.g. vector, matrix), in both host and device spaces, to mirror typical 'R' syntax without the need to know 'OpenCL'.
 
 
 ## Thesis:
