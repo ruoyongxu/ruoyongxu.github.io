@@ -45,7 +45,7 @@ JCO CCI 5, p. 695–700.
 * gpuLik: leverages GPUs for parallel computation of profile likelihoods, specifically designed for Gaussian spatial models.
   * [github](https://github.com/ruoyongxu/gpuLik),  [journal supplementary file](https://authors.elsevier.com/sd/article/S2211-6753(24)00012-5)
 
-* gpuR: provides GPU enabled functions for 'R' objects in a simple and approachable manner. New 'gpu*' and 'vcl*' classes have been provided to wrap typical 'R' objects (e.g. vector, matrix), in both host and device spaces, to mirror typical 'R' syntax without the need to know 'OpenCL'.
+* gpuR: provides GPU enabled functions for 'R' objects in a simple and approachable manner. New 'gpu\*' and 'vcl\*' classes have been provided to wrap typical 'R' objects (e.g. vector, matrix), in both host and device spaces, to mirror typical 'R' syntax without the need to know 'OpenCL'.
   * [github](https://github.com/eborgnine/gpuR),  [CRAN](https://cran.r-project.org/web/packages/gpuR/index.html)
 
 
