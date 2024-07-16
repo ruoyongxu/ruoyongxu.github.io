@@ -37,7 +37,7 @@ JCO CCI 5, p. 695–700.
 
 ## Software
 * clrng: builds on gpuR and utilizes the clRNG ('OpenCL') library to provide efficient tools to generate random numbers in parallel on a GPU and save the results as R objects, and ensuring high-quality random numbers even when R is used interactively or in an ad-hoc manner.
-  * [github](https://github.com/ruoyongxu/clrng),  [arXiv (method)](https://arxiv.org/abs/2201.06604)
+  * [github](https://github.com/ruoyongxu/clrng), [CRAN](https://cran.r-project.org/web/packages/clrng/index.html), [arXiv (method)](https://arxiv.org/abs/2201.06604)
      
 * gpuBatchMatrix: an R package that performs parallel batch matrix operations on GPU, particularly tailored for geostatistical model evaluations.
   * [github](https://github.com/ruoyongxu/gpuBatchMatrix)
