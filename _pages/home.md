@@ -27,7 +27,7 @@ My main interests include deep learning, statistical software, and computational
 Ruoyong Xu, Patrick Brown (2024). ["Profile likelihoods for parameters in trans-Gaussian geostatistical models."](https://authors.elsevier.com/sd/article/S2211-6753(24)00012-5)
 Spatial Statistics, p. 100821.
 
-Ruoyong Xu, Patrick Brown (2025). [clrng: A tool set for parallel random number generation on GPUs in R.] Link will be available later. Accepted for publication at Journal of Statistical Computation and Simulation. 
+Ruoyong Xu, Patrick Brown (2025). ["clrng: A tool set for parallel random number generation on GPUs in R."] Link will be available later. Accepted for publication at Journal of Statistical Computation and Simulation. 
 
 Ruoyong Xu, Patrick Brown, Nancy Baxter, Anna M. Sawka (2021).
 [“Online Public Interest in Cancer During the COVID-19 Pandemic”.](https://ascopubs.org/doi/10.1200/CCI.21.00036)
